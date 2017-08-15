@@ -1,0 +1,11 @@
+* Learn-Scheme [0%]
+** TODO The-Little-Schemer [%]
+*** TODO First 
+** TODO HTDP - 
+** TODO SICP -
+** TODO YSAT - Yet Scheme Another Tutorial
+** TODO RnRs - R5RS
+** TODO The-Seasoned-Schemer
+** TODO EOPL -
+** TODO The-Reasoned-Schemer
+** TODO EOC - 
